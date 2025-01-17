@@ -15,7 +15,7 @@ O esquema do circuito pode ser visualizado no seguinte arquivo:
 📄 [Sensor Ultrassônico.pdf](docs/Sensor%20Ultrass%C3%B4nico.pdf)  
 
 O código-fonte pode ser acessado aqui:  
-</> [Código](src/sensor.ino)  
+</> [Código](docs/Código)  
 
 
 ## 🔗 Simulação no Tinkercad
