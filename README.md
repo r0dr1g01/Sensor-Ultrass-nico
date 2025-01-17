@@ -10,9 +10,12 @@ Este projeto utiliza um **sensor ultrassônico** para medir distâncias e exibir
 
 ![image](https://github.com/user-attachments/assets/64e97eca-ef82-49cd-ab13-11918f084062)
 
-## 📷 Esquema do Circuito  
+## 📂 Docs  
 O esquema do circuito pode ser visualizado no seguinte arquivo:  
-📄 [Sensor Ultrassônico.pdf](docs/Sensor%20Ultrass%C3%B4nico.pdf)
+📄 [Sensor Ultrassônico.pdf](docs/Sensor%20Ultrass%C3%B4nico.pdf)  
+
+O código-fonte pode ser acessado aqui:  
+🔥 [Código](src/sensor.ino)  
 
 
 ## 🔗 Simulação no Tinkercad
