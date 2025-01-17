@@ -11,7 +11,7 @@ Este projeto utiliza um **sensor ultrassônico** para medir distâncias e exibir
 ![image](https://github.com/user-attachments/assets/64e97eca-ef82-49cd-ab13-11918f084062)
 
 ## 📷 Esquema do Circuito
-![Esquema do Circuito](docs/esquema_circuito.png)
+![Esquema do Circuito](docs/Sensor Ultrassônico.pdf)
 
 ## 🔗 Simulação no Tinkercad
 [Acesse aqui a simulação do semáforo](https://www.tinkercad.com/things/9vQ1JMXBe7l-sensor-ultrassonico?sharecode=4dW8RHvU8C7ZafbCxqkpLUHNCDzWWhmmKWGl_FAmt24)
