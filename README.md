@@ -10,10 +10,17 @@ Este projeto utiliza um **sensor ultrassônico** para medir distâncias e exibir
 
 ![image](https://github.com/user-attachments/assets/64e97eca-ef82-49cd-ab13-11918f084062)
 
-## 📂 Docs  
-O esquema do circuito pode ser visualizado no seguinte arquivo:  
-📄 [Sensor Ultrassônico.pdf](docs/Sensor%20Ultrass%C3%B4nico.pdf)  
+## 🔌 Esquema de Ligações  
 
+| Componente               | Pino no Arduino |
+|-------------------------|----------------|
+| **Sensor Ultrassônico (Trigger)** | 11 |
+| **Sensor Ultrassônico (Echo)** | 12 |
+| **Alimentação do Sensor (VCC)** | 5V |
+| **GND do Sensor** | GND |
+
+
+## 📂 Docs   
 O código-fonte pode ser acessado aqui:  
 </> [Código](docs/Código)  
 
